@@ -19,4 +19,4 @@ variables:
 
   # For pipeline reference
   resource_group: Harry_1729279613028-rg
-  aml_workspace: <enter-your-aml-workspace-name>
+  aml_workspace: HarrysWorkspace
